@@ -1,10 +1,11 @@
 body {
-    background-color: slateblue;
+    background-color: rgb(221, 217, 217);
 }
 
 #pet-zone {
     display: flex;
     flex-flow: row wrap;
+    justify-content: space-around;
 }
 
 .card {
@@ -12,12 +13,54 @@ body {
     flex-direction: column;
     align-items: center;
     width: 300px;
-    padding: 2em;
-    margin: 1em;
-    border: solid .5em black;
+    margin: 3em;
+    border: solid .5em black;    
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0%;
+    width: 100%;
+    height: 1.8em;
+    background-color: slategray;
 }
 
 img {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
+    padding: .5em;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+#All {
+    background-color: rgb(94, 94, 172);
+}
+
+#Dino {
+    background-color: rgb(177, 82, 98);
+}
+
+#Dog {
+    background-color: rgb(142, 236, 142);
+}
+
+#Cat {
+    background-color: rgb(132, 153, 81);
+}
+
+.type {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0%;
+    width: 100%;
+    height: 3em;
+    background-color: slategray;
 }
