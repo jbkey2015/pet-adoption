@@ -5,11 +5,10 @@ Use this application to adopt pets. You will be able to sort based on which type
 
 
 ## Screenshots
-![Pet Adoption Preview]()
-![Pet Adoption Preview]()
-![Pet Adoption Preview]()
-![Pet Adoption Preview]()
-![Pet Adoption Preview]()
+![Pet Adoption Preview](https://raw.githubusercontent.com/jbkey2015/pet-adoption/master/screenshots/Annotation%202019-10-01%20203157.png)
+![Pet Adoption Preview](https://raw.githubusercontent.com/jbkey2015/pet-adoption/master/screenshots/Annotation%202019-10-01%20203235.png)
+![Pet Adoption Preview](https://raw.githubusercontent.com/jbkey2015/pet-adoption/master/screenshots/Annotation%202019-10-01%20203254.png)
+![Pet Adoption Preview](https://raw.githubusercontent.com/jbkey2015/pet-adoption/master/screenshots/Annotation%202019-10-01%20203312.png)
 
 ## How to run
 * Clone down this project
